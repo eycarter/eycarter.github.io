@@ -1,0 +1,144 @@
+
+#EMhomepageBackGround {
+	background-color: DarkOliveGreen ;
+	font-family: 'Economica';
+	
+}
+
+#EMtitle {
+	font-size: 50px ;
+	text-align: center;
+	font-family: 'Denk One';
+}
+
+#EMimg {
+	width: 400px ;
+	margin: 35px ;
+}
+
+#paragraph {
+	font-size: 26px ;
+	text-align: center ;
+	font-family: 'Economica';
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+#contact {
+	font-size: 17px ;
+	text-align: right;
+	font-family: 'Economica';
+}
+
+a:visited {
+ 	color: black;
+ }
+ 
+ #EMlakeBackGround {
+ 	background-color: PowderBlue ;
+ 	font-family: 'Economica';
+ }
+
+ #EMlakePIC {
+ 	padding-top: 20px ;
+ 	width: 500px ;
+ }
+
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#EMactivitesBackGround {
+	background-color: LightPink ;
+	font-family: 'Economica';
+}
+
+#EMshopsBackGround {
+	background-color: LemonChiffon ;
+	font-family: 'Economica';
+}
+
+#EMbeachBackGround {
+	background-color: Wheat ;
+	font-family: 'Economica';
+}
+
+#EMpondBackGround {
+	background-color: MistyRose ;
+	font-family: 'Economica';
+}
+
+#EMeagleBackGround {
+	background-color: SaddleBrown ;
+	font-family: 'Economica';
+}
+
+#EMcontactpageBackGround {
+	background-color: DarkSlateGrey ;
+	font-family: 'Economica';
+}
+
+#ul {
+ 	font-size: 30px;
+ }
+
+ #EMlakePICS {
+ 	width: 400px;
+ 	margin: 35px;
+ }
+
+ #EMeaglePICS {
+ 	width:400px;
+ 	margin: 35px;
+ }
+
+ #lakeTable {
+ 	padding-right: 190px;
+ 	padding-left:175px;
+ 	font-size: 20px
+ }
+
+ #shopsTable {
+ 	font-size: 30px ;
+ 	text-align: center;
+
+ }
+
+ #item {
+ 	margin-right: 500px;
+ 	margin-left: 500px; 
+ }
+
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: DarkSlateGrey;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #437070;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #dfecec;
+  padding: 20px;
+}
